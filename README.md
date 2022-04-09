@@ -1,4 +1,4 @@
-# High-level Gesture Detection 
+# High-level Gesture Detection Project
 
 ## Description
 April 9, 2022: A program that is capable of detecting hand gestures, and performing tasks based on specific gestures
