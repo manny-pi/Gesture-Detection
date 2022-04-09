@@ -1,7 +1,7 @@
 # High-level Gesture Detection Project
 
 ## Description
-As of ...
+As of ... <br>
 April 9, 2022: A program that is capable of detecting hand gestures, and performing tasks based on specific gestures
 
 ## Requirements
