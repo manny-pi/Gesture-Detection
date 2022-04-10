@@ -11,7 +11,8 @@ April 9, 2022: A program that is capable of detecting hand gestures, and perform
 
 ## Tasks 
 As of .. <br> 
-1. Find datasets for: Hand-Gesture; Body-Gesture; 
-2. Determine how interface will be implemented: GUI? Command line?
-3. Determine the architecture of the program: Modular? Hierarchical? 
-4. Determine licensing: FreeBSD? MIT?
+April 19, 2022
+  1. Find datasets for: Hand-Gesture; Body-Gesture; 
+  2. Determine how interface will be implemented: GUI? Command line?
+  3. Determine the architecture of the program: Modular? Hierarchical? 
+  4. Determine licensing: FreeBSD? MIT?
