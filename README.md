@@ -9,7 +9,8 @@ April 9, 2022: A program that is capable of detecting hand gestures, and perform
 * Library for real-time gesture categorization -> PyTorch <br> 
 * Datasets to train PyTorch Neural Networks -> Kaggle, Science Direct, Mendeley Data <br>
 
-## Tasks 
+
+### Developer Tasks 
 As of .. <br> 
 April 19, 2022
   1. Find datasets for: Hand-Gesture; Body-Gesture; 
